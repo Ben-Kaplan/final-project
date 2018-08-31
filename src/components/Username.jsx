@@ -22,6 +22,7 @@ class UsernameForm extends Component {
     return (
       <div>
         <div>
+          <h1>Talk A Lot</h1>
           <h2>Login</h2>
           <form onSubmit={this.onSubmit}>
             <input
